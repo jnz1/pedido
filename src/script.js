@@ -1,7 +1,7 @@
 function sim() {
     alert("Você aceitou casar comigo! :)");
     // redireciona para um URL após clicar no SIM
-    location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
+    location.href = "https://www.youtube.com/watch?v=izGwDsrQ1eQ&ab_channel=georgemichaelVEVO";
 }
 
 function desvia(btn) {
